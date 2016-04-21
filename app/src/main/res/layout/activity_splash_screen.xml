@@ -16,5 +16,5 @@
         android:id="@+id/imageView3"
         android:src="@drawable/hello"
         android:layout_centerVertical="true"
-        android:background="#75e2e2fb" />
+        android:background="#5fe2e2fb" />
 </RelativeLayout>
